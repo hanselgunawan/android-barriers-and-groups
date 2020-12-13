@@ -1,4 +1,4 @@
-# Barriers and Group
+# Barrier, Guideline, and Group
 
 ## Difference between Barrier and Guideline
 * `Barrier`'s position is **flexible** and `Guideline`'s position is **fixed**.
